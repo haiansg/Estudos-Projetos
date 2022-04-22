@@ -1,0 +1,532 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="http://fonts.cdnfonts.com/css/gotham" rel="stylesheet">
+    <link href="http://fonts.cdnfonts.com/css/roboto" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css-tyle-smart/home.css">
+    <title>Smart fit</title>
+</head>
+
+
+<body>
+    <div class="fundo">
+        <nav>
+            <div class="foto-logo">
+                <img alt="foto-logo" src="production/newHome/logo-cb8dd34d.svg">
+            </div>
+            <ul>
+                <li class="menu">academias</li>
+                <li class="menu">espaço do cliente</li>
+                <li class="menu">smart fit news</li>
+                <li class="menu">agende seu horário</li>
+                <li class="menu">smart fit supps</li>
+            </ul>
+            <div class="butt">
+                <img alt="foto-menu" src="production/newHome/transferir.png">
+            </div>
+        </nav>
+    </div>
+
+    <section class="two-img">
+        <div class="texto-sec">
+            <h1>Escolha <span class="deg-color">seu plano</span></h1>
+
+            <p>Treine o quanto quiser com nossos planos. Todos oferecem áreas de musculação, aeróbico, aulas especiais e de ginástica</p>
+         </div>
+
+         <div class="banners">
+
+            <div class="banner-right">
+                <h2 class="plano-banner">plano</h2>
+
+                <span class="pack-banner">black</span>
+
+                <div class="pack-banner-promo">
+                    <p class="anuncio-desc">a partir de<span class="quebra">
+                    <del>r$ 119,90*</del></span></p>
+                    <p class="anuncio-desc2"><span id="l4">por</span> <span class="quebra2" id="l1">r$ 9,90*</span></p>
+                
+                </div>
+                <div id="pg-text">
+                                    <!--tem que colocar cada bloco de texo
+                                    tem um paragráfo diferente pra conseguir espaça-los-->
+                                    
+                    <h3 id="texto-bg-white1">
+                        Treine em qualquer unidade Smart Fit na América Latina.
+                    </h3>
+
+                    <h3 id="st-lef">
+                        DIFERENCIAIS
+                    </h3>
+
+                    <p class="texto-bg-white2">
+                        Acesso ilimitado a todas áreas da academia
+                    </p>
+
+                    <p class="texto-bg-white2">    
+                        Aulas de Ginástica
+                    </p>
+
+                    <p class="texto-bg-white2">
+                        Área de musculação e aeróbicos
+                    </p>
+
+                    <p class="texto-bg-white2">
+                        Smart Fit Go
+                    </p>
+
+                    <p class="texto-bg-white2">  
+                        Acesso ilimitado às demais unidades da rede**
+                    </p>
+                    
+                    <p class="texto-bg-white2">  
+                        Leve amigos para treinar com você
+                    </p>
+
+                    <p class="texto-bg-white2">
+                        Cadeira de massagem
+                    </p>
+
+                    <p class="texto-bg-white2"> 
+                        1 mês para presentear alguém
+                    </p>
+                </div>
+
+            <button type="button" class="bt-simp">aproveite</button>
+
+            <p class="consult-reg">
+                *Consulte o regulamento
+            </p>
+
+            </div>
+
+            <div class="banner-left">
+                <h2 class="plano-banner">plano
+
+                </h2>
+
+                <span class="pack-banner smart">smart</span>
+
+                <div class="pack-banner-promo2">
+                    <p class="anuncio-desc">a partir de <del class="del-color"><span class="quebra" id="l3">r$ 79,90*</del></span></p>
+                    <p class="anuncio-desc2"><span id="l5">por</span> <span class="quebra3" id="l2">r$ 9,90* </span></span></p>
+                    
+                </div>
+
+            
+
+                <h3 id="texto-bg-white1">
+                    Treine o quanto quiser na sua unidade, sem taxa de cancelamento.
+                </h3>
+
+                <h3 id="st-lef">
+                    DIFERENCIAIS
+                </h3>
+
+                <p class="texto-bg-white2">
+                    Acesso ilimitado a todas áreas da academia
+                </p>
+
+                <p class="texto-bg-white2">    
+                    Aulas de Ginástica
+                </p>
+
+                <p class="texto-bg-white2">
+                    Área de musculação e aeróbicos
+                </p>
+
+                <p class="texto-bg-white2">
+                    Smart Fit Go
+                </p>
+
+                <p class="texto-bg-white2"> 
+                    Sem taxa de cancelamento
+                </p>
+
+            <button type="button-b" class="bt-simp">aproveite</button>
+
+            <p class="consult-reg">
+                *Consulte o regulamento
+            </p>
+
+            </div>
+        
+         </div>
+
+    </section>
+<!-- Encerra topo até 1ª Banner - falta ajustar a responsividade 13/04/21-->
+    <section class="fotos-banner">
+
+        <div class="cont-ele-f-b">
+
+            <h2 class="tt-b-fotos">
+                Smart Fit App: uma experiência completa de treino, dentro e fora da academia
+            </h2>
+
+            <p class="tt-b-fotos">
+                Não importa se você já é experiente ou se está começando a praticar atividade física agora, uma coisa é certa: ao baixar grátis o Smart Fit App, você ganha o melhor aliado para a sua rotina de treinos! Exclusivo para clientes.
+            </p>
+
+            <span id="qr-code-scan">
+                Escaneie o código para baixar grátis
+            </span>
+            
+            <div class="qr-code">
+
+                <img class="img-qr" src="production/newHome/qrcode.png">
+                
+                <div class="qr-code-group">
+
+                    <img class="img-qr-l" src="https://assets.smartfit.com.br/production/newHome/google-play-badge.png">
+                    <img class="img-qr-l" src="https://assets.smartfit.com.br/production/newHome/apple-badge.png">
+                
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="cont-ele-f-b" id="fotos-left">
+            
+            <img class="qrl-p" src="production/newHome/img-smartphone.png" alt="imagem smartphone">
+
+        </div>
+
+    </section>
+<!-- Fim section (class="fotos-banner") primeiro conjunto de fotos -->
+
+<section class="section-fotos">
+
+     <div class="box-fotos">
+        <img class="fotos" id="foto1" src="production/newHome/cta-new-nutri.jpg" width="3000px" height="200px">
+         <div class="bg-cont">
+            <h3 class="principal-legend">
+                Smart Fit Nutri
+            </h3>
+            <p class="principal-text">
+                Tenha consultas online com nutricionistas para mudar sua alimentação de um jeito simples e saudável.
+            </p>
+
+            <p class="legenda-promo" id="promo-menor">
+                + 12 x de 29,90 <wbr><br>
+                <span class="italico">7 dias de garantia<wbr>
+                </span>
+            </p>
+
+                <button class="btn-promo-fotos">Baixar Agora</button>
+        </div>
+        
+     </div>
+
+     <div class="box-fotos">
+        <img class="fotos" id="foto1" src="production/newHome/cta-new-coach.jpg">
+         <div class="bg-cont">
+            <h3 class="principal-legend">
+                Smart Fit Coach
+            </h3>
+            <p class="principal-text">
+                Tenha mais motivação e ajuste sua rotina com um professor sempre por perto.
+            </p>       
+        <p class="legenda-promo">
+            +R$49,90 /mês <wbr><br>
+            <span class="italico">*Permanência: 3 meses<wbr>
+            </span>
+        </p>
+            <button class="btn-promo-fotos" id="fica-menor">Agendar atendimento</button>
+        </div>
+
+    </div>
+
+     <div class="box-fotos">
+        <img class="fotos" id="foto1" src="production/newHome/supps.png">
+         <div class="bg-cont">
+            <h3 class="principal-legend">
+                Smart Fit Supps
+            </h3>
+            <p class="principal-text">
+                A suplementação inteligente que te ajuda a potencializar os seus resultados.
+            </p>
+
+            <button class="btn-promo-fotos" id="fica-menor2">Conheça os produtos</button>
+        </div>
+        
+
+     </div>
+
+     <div class="box-fotos">
+        <img class="fotos" id="foto1" src="production/newHome/cta-new-go.jpg">
+         <div class="bg-cont">
+            <h3 class="principal-legend">
+                Smart Fit GO
+            </h3>
+            <p class="principal-text">
+                O melhor da sua academia na sua casa! Aproveite suas aulas online onde e quando quiser.
+            </p>
+        <p class="legenda-promo">
+            Exclusivo para clientes <br>
+    
+        </p>
+
+        <button class="btn-promo-fotos">Inscrever-se</button>
+     </div>
+</section>
+
+<aside class="covid-19">
+    <h1 class="">
+        Vamos vencer <span class="span-h1-aside">A COVID-19</span>
+    </h1>
+
+    <p class="p-covid-19">
+        Precisamos da sua ajuda. Só assim, vamos conseguir deixar a Smart Fit um lugar mais seguro para todos.
+    </p>
+
+    <h1 class="mud">
+        Mudanças importantes
+    </h1>
+</aside>
+
+<aside class="fotos-covid">
+
+    <div class="text-foto-covid"> 
+        <h3>Desinfecção completa</h3>
+            
+            <div class="foto-covid-1">
+                
+                <img class="cont-foto-covid" src="production/newHome/icon-desinfeccao.png">
+            
+            </div>
+
+        <p class="covid-19-1">
+            Desinfectamos todas as academias com <span class="span-covid-text">Aparelho nebulizador</span> de 2 a 3 vezes por dia.
+        </p>
+    </div>
+
+    <div class="text-foto-covid"> 
+        <h3>Distância entre aparelhos</h3>
+            
+            <div class="foto-covid-1">
+                
+                <img class="cont-foto-covid" src="production/newHome/icon-distancia.png">
+            
+            </div>
+
+        <p class="covid-19-1">
+            Desativamos metade dos aparelhos de cardio para manter uma <span class="span-covid-text">Distancia segura</span> entre os clientes.
+        </p>
+    </div>
+
+    <div class="text-foto-covid"> 
+        <h3>Agende seu horário</h3>
+            
+            <div class="foto-covid-1">
+                
+                <img class="cont-foto-covid" src="production/newHome/icon-agende.png">
+            
+            </div>
+
+        <p class="covid-19-1">
+            Vamos evitar aglomeração. Antes de ir à academia <span class="span-covid-text">agende seu horário aqui</span>
+        </p>
+    </div>
+
+    <div class="text-foto-covid"> 
+        <h3>Termômetro digital</h3>
+            
+            <div class="foto-covid-1">
+                
+                <img class="cont-foto-covid" src="production/newHome/icon-termometro.png">
+            
+            </div>
+
+        <p class="covid-19-1">
+            Vamos medir sua temperatura na recepção. Se estiver <span class="span-covid-text">acima de 37.8º C </span>volte para casa por favor.
+        </p>
+    </div>
+
+    <div class="text-foto-covid"> 
+        <h3>Uso de máscaras</h3>
+            
+            <div class="foto-covid-1">
+                
+                <img class="cont-foto-covid" src="production/newHome/icon-usaremos-mascara.png">
+            
+            </div>
+
+        <p class="covid-19-1">
+            A máscara é obrigatória.<span class="span-covid-text">Toda nossa equipe </span>usará máscaras assim como os <span class="span-covid-text">alunos</span>
+        </p>
+
+
+    </div>
+
+    <div class="text-foto-covid"> 
+        <h3>Tapetes de higienização</h3>
+            
+            <div class="foto-covid-1">
+                
+                <img class="cont-foto-covid" src="production/newHome/icon-tapetes.png">
+            
+            </div>
+
+        <p class="covid-19-1">
+            Temos tapetes na entrada para você <span class="span-covid-text">higienizar seus tênis</span>
+        </p>
+
+    </div>  
+</aside>
+
+    <div class="button-saiba-mais">
+        <button type="button" class="bt-simp bt-simp2">SAIBA MAIS</button>
+    </div>
+<section class="fotos-grid">
+    <h1 class="mud2">
+        Tudo que você <span class="deg-color">precisa</span>
+    </h1>
+    <p class="covid-19-2">
+        Um ecossistema fitness que oferece mais liberdade na hora de treinar.
+    </p>
+</section>
+
+
+    <div class="fotos-grid2">
+        
+        <div class="box-fotos2">
+            <img class="padding-grid"src="production/newHome/img_cover_academia_aulas.jpg">
+            <h3 class="leg1 fgr">Aulas de ginástica + FIT DANCE</h3>
+        </div>
+
+        <div class="box-fotos2">
+            <img class="padding-grid"src="production/newHome/img_cover_academia_musculacao.jpg">
+            <h3 class="leg2 fgr">Musculação</h3>
+        </div>
+
+        <div class="box-fotos2">
+            <img class="padding-grid"src="production/newHome/img_cover_academia_funcional.jpg">
+            <h3 class="leg3 fgr">Funcional</h3>
+        </div>
+
+        <div class="box-fotos2">
+            <img class="padding-grid"src="production/newHome/img_cover_academia_cardio.jpg">
+            <h3 class="leg4 fgr">Cardio</h3>
+        </div>
+
+        <div class="box-fotos2">
+            <img class="padding-grid"src="production/newHome/img_cover_academia_fitness-remote.jpg">
+            <h3 class="leg5 fgr">Treinos para fazer onde quiser</h3>
+        </div>
+
+        <div class="box-fotos2">
+            <img class="padding-grid"src="production/newHome/img_cover_academia_fitness-app.jpg">
+            <h3 class="leg6 fgr">Tudo na palma da mão</h3>
+        </div>
+
+    </div>
+
+    <!-- FIM DA SESSÃO DE FOTOS-->
+    <div class="box-input">
+        <div class="box-desc">
+            <p id="p-input">Receba novidades e promoções exclusivas da Smart Fit.</p>
+        </div>
+        <div class="box-input2">
+        <input class="pergunta" type="email" placeholder="Informe aqui o seu e-mail">
+        <input type="submit" name="commit" value="CADASTRAR" class="btn-email"></input>
+        </div>
+    </div>
+
+    <!-- INICIO FOOTER -->
+<footer>
+    <div class="header-footer">
+        <div class="img-logo-footer">
+            <img class="logo-footer" src="production/newHome/logo-cb8dd34d.svg">
+        </div>
+        <div class="footer-section-wrap">
+            <div class="footer-section">
+                <h3 class="h3-ul-tt">Institucional</h3>
+                <ul class="footer-section-list">
+                    <li class="footer-item-list">Sobre</li>
+                    <li class="footer-item-list">Conceito</li>
+                    <li class="footer-item-list">Investidores</li>
+                    <li class="footer-item-list">Central de Ajuda</li>
+                    <li class="footer-item-list">Fale Conosco</li>
+                    <li class="footer-item-list">Edital Smart Fit</li>
+                    <li class="footer-item-list">Política de Privacidade</li>
+                    <li class="footer-item-list">Canal Pandemia</li>
+                    
+                </ul>
+            </div>
+
+            <div class="footer-section">
+                <h3 class="h3-ul-tt">Planos</h3>
+                <ul class="footer-section-list">
+                    <li class="footer-item-list">Planos</li>
+                    <li class="footer-item-list">Contratos</li>
+                    <li class="footer-item-list">Planos corporativos</li>
+                    <li class="footer-item-list">Smart Fit Supps</li>
+                    <li class="footer-item-list">Smart Fit Plus</li>
+                    
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h3 class="h3-ul-tt">Corporativo</h3>
+                <ul class="footer-section-list">
+                    <li class="footer-item-list">Imprensa</li>
+                    <li class="footer-item-list">Quero ser um franqueado</li>
+                    <li class="footer-item-list">Divulgue sua marca</li>
+                    <li class="footer-item-list">Indique um ponto</li>
+                    <li class="footer-item-list">Trabalhe Conosco</li>
+                    <li class="footer-item-list">Graduação Ed. Física EAD</li>
+                    
+                    
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h3 class="h3-ul-tt">Siga a Smart Fit</h3>
+                <ul class="footer-section-list">
+                    <li class="footer-item-list"><img class="icon-footer" src="production/newHome/facebook.svg">Facebook</li>
+                    <li class="footer-item-list"><img class="icon-footer" src="production/newHome/instagram.svg">Instagram</li>
+                    <li class="footer-item-list"><img class="icon-footer" src="production/newHome/Youtube.svg">Youtube</li>
+                    <li class="footer-item-list"><img class="icon-footer" src="production/newHome/tiktok.svg">TikTok</li>
+                    <li class="footer-item-list"><img class="icon-footer" src="production/newHome/spotifi.svg">Spotify</li>
+                    <li class="footer-item-list"><img class="icon-footer" src="production/newHome/twitter.svg">Twitter</li>
+                    <li class="footer-item-list"><img class="icon-footer" src="production/newHome/blog.svg">Smart Fit News</li>
+                    
+                </ul>
+            </div>
+        </div>
+
+        <div class="end-site">
+            <h3 class="h3-end-site">INFORMAÇÕES E CONDIÇÕES</h3>
+            <p class="ultimos-p">- O preço da mensalidade não inclui taxas de adesão e manutenção anual. Pagamento mensal por débito automático em conta-corrente ou cartão de crédito. O preço mínimo pode variar entre os planos e as unidades. Consulte a relação de unidades em smartfit.com.br. Sujeito a alterações sem aviso prévio. Não aceitamos cheques. Pagamento em dinheiro deve ser feito à vista, direto na unidade, incluindo mensalidade do período de 12 meses, taxas de adesão e manutenções anuais vigentes. Imagens meramente ilustrativas</p>
+            <p class="ultimos-p">- Condições promocionais não são válidas para pagamentos à vista.</p>
+            <p class="ultimos-p">- O Plano Black garante acesso ilimitado para todas as unidades da América Latina.</p>
+            <p class="ultimos-p">- O Plano Black garante acesso limitado de 5 convidados por mês em qualquer unidade da rede.</p>
+            <p class="ultimos-p">Abril 2022 | 1º mês por R$9,90!!: Ao aderir a promoção, você está contratando um plano Smart ou Black conforme condições previstas em contrato. Em razão da promoção, você irá pagar no primeiro mês o valor de R$9,90, passando a pagar o valor integral a partir da segunda mensalidade. Condição válida apenas para novas vendas que fizerem adesão no plano Smart ou Black, no período compreendido do dia 20/04/2022 a 26/04/2022. As demais cobranças previstas em contrato (manutenção anual e antecedência de cancelamento, multa, etc.) serão integralmente mantidas. Promoção não cumulativa e vinculada a permanência mínima de três meses. Caso haja cancelamento durante o período de permanência mínima o valor do benefício será cobrado juntamente com quaisquer outros valores devidos no momento do cancelamento. Não é válido para clientes com débito anterior em aberto ou que tiveram seu plano cancelado por violação das normas de utilização.Ao aderir a promoção, você está contratando um plano Black conforme condições previstas em contrato. Consulte unidades não participantes e regulamento completo aqui</p>
+            <p class="ultimos-p">Abril 2022 | 1º mês você não paga a primeira mensalidade apenas nas 27 unidades da cidade de Fortaleza , passando a pagar o valor integral a partir da segunda mensalidade em diante. Condição válida apenas para novas vendas que fizerem adesão no plano Black, por período indeterminado. As demais cobranças previstas em contrato (manutenção anual e antecedência de cancelamento, multa, etc.) serão integralmente mantidas. Promoção não cumulativa e vinculada a permanência mínima de três meses. Caso haja cancelamento durante o período de permanência mínima o valor do benefício será cobrado juntamente com quaisquer outros valores devidos no momento do cancelamento. Não é válido para clientes com débito anterior em aberto ou que tiveram seu plano cancelado por violação das normas de utilização. "</p>
+
+        </div>
+
+</footer>
+
+</body>
+
+
+</html>
+
+<!-- 
+    <div class="box-fotos2">
+        <img class="fotos" id="foto1" src="production/newHome/cta-new-go.jpg">
+         <div class="bg-cont">
+            <h3 class="principal-legend">
+                Smart Fit GO
+            </h3>
+            <p class="principal-text">
+                O melhor da sua academia na sua casa! Aproveite suas aulas online onde e quando quiser.
+            </p>
+        <p class="legenda-promo">
+            Exclusivo para clientes <br>
+    
+        </p> -->
